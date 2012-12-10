@@ -172,6 +172,6 @@ Public Class MOBZcript
   End Sub
 
   Private Sub versionLabel_Click(sender As Object, e As EventArgs) Handles versionLabel.Click
-    Process.Start("http://www.mobzystems.com/Tools/MOBZscript")
+    Process.Start("http://www.mobzystems.com/Tools/MOBZcript")
   End Sub
 End Class
